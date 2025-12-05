@@ -6,7 +6,9 @@
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
   margin: 0 auto;
-  top: 10vh;             /* adjust from top relative to screen */
+   top: 70%;
+  transform: translateY(-50%);
+  /* top: 10vh;             adjust from top relative to screen */
   background-color: #d6a6f1;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
